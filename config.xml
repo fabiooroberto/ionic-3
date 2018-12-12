@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>myapp</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<widget id="br.com.fabioroberto.estudos" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Estudos</name>
+    <description>Fábio Roberto - Estudos.</description>
+    <author email="fabioo.roberto@gmail.com" href="http://fabioroberto.com.br/">FRS</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
