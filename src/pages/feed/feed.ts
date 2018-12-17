@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { FilmeDetalhesPage } from '../filme-detalhes/filme-detalhes';
 
 /**
  * Generated class for the FeedPage page.
@@ -23,6 +24,10 @@ export class FeedPage {
   }
   ionViewDidLoad() {
     //alert(this.somaDoisNumeros(50,65));
+  }
+
+  abrirDetalhes(){
+    this.navCtrl.push(FilmeDetalhesPage);
   }
 
 }
